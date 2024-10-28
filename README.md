@@ -1,1 +1,1 @@
-# CoA
+# AIUB course: Computer Organization & Architecture
